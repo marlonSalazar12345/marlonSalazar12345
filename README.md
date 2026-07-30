@@ -130,5 +130,3 @@
 <p align="center">
 ⭐ Gracias por visitar mi perfil.
 </p>
-| 🌎 Traductor Español - Inglés - Kichwa | Python |
-| 📦 Sistema de Inventario | Docker · PostgreSQL |
