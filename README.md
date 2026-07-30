@@ -119,12 +119,7 @@
 # 📫 Contacto
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_CORREO">
+<a href="mailto:salazarmarlon2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -135,12 +130,5 @@
 <p align="center">
 ⭐ Gracias por visitar mi perfil.
 </p>
-# 🚀 Proyectos Destacados
-
-| Proyecto | Tecnologías |
-|----------|-------------|
-| 🌦️ Predicción del Fenómeno de El Niño | Python · Spark · Kafka · Hadoop · PostgreSQL |
-| 📊 Data Warehouse y Minería de Datos | PDI · PostgreSQL · SQL |
-| 🤖 Modelamiento y Simulación | Python · SimPy |
 | 🌎 Traductor Español - Inglés - Kichwa | Python |
 | 📦 Sistema de Inventario | Docker · PostgreSQL |
