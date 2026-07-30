@@ -135,3 +135,12 @@
 <p align="center">
 ⭐ Gracias por visitar mi perfil.
 </p>
+# 🚀 Proyectos Destacados
+
+| Proyecto | Tecnologías |
+|----------|-------------|
+| 🌦️ Predicción del Fenómeno de El Niño | Python · Spark · Kafka · Hadoop · PostgreSQL |
+| 📊 Data Warehouse y Minería de Datos | PDI · PostgreSQL · SQL |
+| 🤖 Modelamiento y Simulación | Python · SimPy |
+| 🌎 Traductor Español - Inglés - Kichwa | Python |
+| 📦 Sistema de Inventario | Docker · PostgreSQL |
