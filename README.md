@@ -1,16 +1,120 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Marlon Omar Salazar Alvarado</h1>
 
-<!--
-**marlonSalazar12345/marlonSalazar12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Software Developer | 📊 Data Science | 🤖 Machine Learning | 🚀 Siempre aprendiendo
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+Java+%7C+SQL;Always+Learning+New+Technologies&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mí
+
+```text
+💻 Estudiante de Ingeniería en Sistemas.
+📚 Apasionado por la Ciencia de Datos, Machine Learning y el Desarrollo de Software.
+🔭 Actualmente desarrollando proyectos con Python, Java, SQL y Big Data.
+🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas.
+🎯 Mi objetivo es convertirme en Data Scientist / Machine Learning Engineer.
+🚀 Me gusta construir soluciones que resuelvan problemas reales utilizando datos.
+```
+
+---
+
+# 💻 Habilidades Técnicas
+
+## 🖥️ Lenguajes de Programación
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📚 Librerías y Frameworks
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+## 🛠️ Herramientas y Entornos
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 Metodologías
+
+- 📈 CRISP-DM
+- 📊 Análisis Exploratorio de Datos (EDA)
+- 🤖 Modelado Predictivo
+- 🧹 Limpieza y Preparación de Datos
+- 📉 Visualización de Datos
+
+---
+
+# 📈 Estadísticas de GitHub
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Racha de Contribuciones
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+# 📌 Proyectos Destacados
+
+🚀 Aquí encontrarás proyectos relacionados con:
+
+- 🤖 Machine Learning
+- 📊 Ciencia de Datos
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL
+- 📈 Big Data
+- 🌐 Desarrollo Web
+- 💡 Algoritmos y Estructuras de Datos
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:TU_CORREO">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil.
+</p>
